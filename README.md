@@ -75,9 +75,11 @@ In this part, we used sklearn.dataset fetch_olivetti_faces dataset. We used from
 
 ## 3D Graph of First 3 Principal Components
 
+
+
 # Question 2.
 
-
+### Data
 
 
 
