@@ -63,6 +63,7 @@ In this part, we used sklearn.dataset fetch_olivetti_faces dataset. We used from
 ![image](https://github.com/onlinEngineer/PCA/assets/70773825/652324ba-35c0-4c23-8898-8cd8fba64943)![image](https://github.com/onlinEngineer/PCA/assets/70773825/e55a4665-8f5d-43d0-9b6c-e6eef94c0f68)
 
 ## First 3 Principal Components (3d)
+
 ### First Principal Components (First 100)
 ![image](https://github.com/onlinEngineer/PCA/assets/70773825/062a6df1-6306-4e33-ae7b-b3c0806b2058)
 
@@ -70,6 +71,14 @@ In this part, we used sklearn.dataset fetch_olivetti_faces dataset. We used from
 
 
 ### Third Principal Components (First 100)
+
+
+## 3D Graph of First 3 Principal Components
+
+# Question 2.
+
+
+
 
 
 
