@@ -1,4 +1,4 @@
-# PCA
+# PCA on Olivetti
 Hand Calculation PCA and Sklearn Calculation Comparision
 
 # Question 1.
