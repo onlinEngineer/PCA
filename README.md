@@ -94,7 +94,8 @@ In this part, we used sklearn.dataset fetch_olivetti_faces dataset. We used from
 
 # Hand Calculation PCA
 
-![image](https://github.com/onlinEngineer/PCA-on-Olivetti-Dataset/assets/70773825/6af3266b-2016-4233-9257-23f83d1aca07)
+![image](https://github.com/onlinEngineer/PCA-on-Olivetti-Dataset/assets/70773825/71a8cdc7-6c2c-41a3-ba9f-cb165ba2c7b9)
+
 
 
 
